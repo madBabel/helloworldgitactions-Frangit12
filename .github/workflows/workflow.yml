@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: echo-hello-world
-        run: "¡Hola, mundo!" 
+        run: echo "¡Hola, mundo!" 
